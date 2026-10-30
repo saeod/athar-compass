@@ -1,0 +1,175 @@
+﻿step,column,organization,old,new,reason
+drop_column,Unnamed: 23,,,,عمود فارغ تقريبًا أو روابط صور
+drop_column,Image,,,,عمود فارغ تقريبًا أو روابط صور
+to_numeric,Funding (2015),Coding it Forward,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Data4Democracy,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Textizen,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Center for Civic Media at Emerson College,?,,قيمة غير رقمية
+to_numeric,Funding (2015),The Racial Imaginary Institute,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Center for Collaborative Journalism,?,,قيمة غير رقمية
+to_numeric,Funding (2015),DataMade,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Bitter Southerner,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Callifornia Community Foundation,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Harvard Kennedy School Center for Democratic Governance and Innovation,?,,قيمة غير رقمية
+to_numeric,Funding (2015),News Integrity Initiative at CUNY,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Cultivate the Karass,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Personal Democracy Media,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Berkman Center,?,,قيمة غير رقمية
+to_numeric,Funding (2015),MIT Media,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Open Contracting Partnership,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Living Cities,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Irene W. and C.B. Pennington Foundation,?,,قيمة غير رقمية
+to_numeric,Funding (2015),African Leadership Academy,?,,قيمة غير رقمية
+to_numeric,Funding (2015),African Leadership University,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Bakers Without Borders,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Comix4= Comics for Equality,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Crack in the Wall,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Encontrarse en la Diversidad,?,,قيمة غير رقمية
+to_numeric,Funding (2015),High Resolves,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Immigropoly,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Media Focus on Africa,?,,قيمة غير رقمية
+to_numeric,Funding (2015),MiVote,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Play2Talk,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Routes 2 Roots,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Safarni,?,,قيمة غير رقمية
+to_numeric,Funding (2015),The Coexist Initiative,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Transforming Pastoralist-Farmer Conflict in Nigeria,?,,قيمة غير رقمية
+to_numeric,Funding (2015),Wapikoni Mobile,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Coding it Forward,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Data4Democracy,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Textizen,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Center for Civic Media at Emerson College,?,,قيمة غير رقمية
+to_numeric,Funding (2016),The Racial Imaginary Institute,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Center for Collaborative Journalism,?,,قيمة غير رقمية
+to_numeric,Funding (2016),DataMade,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Bitter Southerner,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Callifornia Community Foundation,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Harvard Kennedy School Center for Democratic Governance and Innovation,?,,قيمة غير رقمية
+to_numeric,Funding (2016),News Integrity Initiative at CUNY,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Cultivate the Karass,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Personal Democracy Media,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Berkman Center,?,,قيمة غير رقمية
+to_numeric,Funding (2016),MIT Media,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Open Contracting Partnership,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Living Cities,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Irene W. and C.B. Pennington Foundation,?,,قيمة غير رقمية
+to_numeric,Funding (2016),African Leadership Academy,?,,قيمة غير رقمية
+to_numeric,Funding (2016),African Leadership University,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Bakers Without Borders,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Comix4= Comics for Equality,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Crack in the Wall,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Encontrarse en la Diversidad,?,,قيمة غير رقمية
+to_numeric,Funding (2016),High Resolves,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Immigropoly,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Media Focus on Africa,?,,قيمة غير رقمية
+to_numeric,Funding (2016),MiVote,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Play2Talk,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Routes 2 Roots,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Safarni,?,,قيمة غير رقمية
+to_numeric,Funding (2016),The Coexist Initiative,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Transforming Pastoralist-Farmer Conflict in Nigeria,?,,قيمة غير رقمية
+to_numeric,Funding (2016),Wapikoni Mobile,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Coding it Forward,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Data4Democracy,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Textizen,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Center for Civic Media at Emerson College,?,,قيمة غير رقمية
+to_numeric,Funding (2017),The Racial Imaginary Institute,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Center for Collaborative Journalism,?,,قيمة غير رقمية
+to_numeric,Funding (2017),DataMade,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Bitter Southerner,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Callifornia Community Foundation,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Harvard Kennedy School Center for Democratic Governance and Innovation,?,,قيمة غير رقمية
+to_numeric,Funding (2017),News Integrity Initiative at CUNY,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Personal Democracy Media,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Berkman Center,?,,قيمة غير رقمية
+to_numeric,Funding (2017),MIT Media,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Open Contracting Partnership,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Living Cities,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Irene W. and C.B. Pennington Foundation,?,,قيمة غير رقمية
+to_numeric,Funding (2017),African Leadership Academy,?,,قيمة غير رقمية
+to_numeric,Funding (2017),African Leadership University,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Bakers Without Borders,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Comix4= Comics for Equality,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Crack in the Wall,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Encontrarse en la Diversidad,?,,قيمة غير رقمية
+to_numeric,Funding (2017),High Resolves,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Immigropoly,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Media Focus on Africa,?,,قيمة غير رقمية
+to_numeric,Funding (2017),MiVote,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Play2Talk,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Routes 2 Roots,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Safarni,?,,قيمة غير رقمية
+to_numeric,Funding (2017),The Coexist Initiative,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Transforming Pastoralist-Farmer Conflict in Nigeria,?,,قيمة غير رقمية
+to_numeric,Funding (2017),Wapikoni Mobile,?,,قيمة غير رقمية
+to_nan,Three-Year-Funding,CultureBank,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Impact Experience,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Kosmos,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Safecity,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Be More,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Over Zero,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Center on Technology and society,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,TechEquity Collaborative,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,National institute for civil discourse,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,New Media Ventures,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,The Discourse,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Center for Media Engagement University of Texas Austin,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Anti Racist Alliance,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Coleman Advocates for Youth,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Eastern Educational Resource Center,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Education for Liberation Network,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Educators' Network for Social Justice Milwaukee,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Educolor,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Fellowship for Race and Equity in Education,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,"Free Minds, Free People",0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Gay Lesbian and Straight Education Network,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Global Glimpse,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,New York Collective of Radical Educators,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Not in Our School,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,NYCLU Teen Activist Project,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,One Nation Indivisible,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Partners Against Hate,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Pillars of Peace Hawaii,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Radical Math,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Teachers 4 Social Justice,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Teachers For Social Justice,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Teaching Tolerance (SPLC),0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Understanding Prejudice,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Until We are All Free,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,We Unify,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,YWCA York,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Zinn Education Project,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Ben Franklin Circles,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Heterodox Academy,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Narrative4,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,National Institute for Civil Discourse,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,One America Movement,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,People's supper,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Resetting the table,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Spaceship Media,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Streetlaw,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Village Square,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Troll Busters,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Color of Change,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Trust Project,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Coral Project,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,GroundSourced,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Listening Post,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Outlier Media,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,City Bureau,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Youth Wire,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,Community Listening and Engagement Fund,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,P2P Foundation,0.0,,صفر: يُعدّ غير مبلَّغ عنه (افتراض)
+to_nan,Three-Year-Funding,YWCA Columbus,3.0,,"أقل من 1,000 دولار لثلاث سنوات: خطأ ترميز محتمل"
+to_nan,Number of Employees,Anti Racist Alliance,501000.0,,عدد موظفين غير منطقي
+flag,qc_flags,Welcoming America,,dup_name,اسم مكرر بقيم متضاربة: يُستبعد من التحليل
+flag,qc_flags,National institute for civil discourse,,dup_name,اسم مكرر بقيم متضاربة: يُستبعد من التحليل
+flag,qc_flags,National Institute for Civil Discourse,,dup_name,اسم مكرر بقيم متضاربة: يُستبعد من التحليل
+flag,qc_flags,Welcoming America,,dup_name,اسم مكرر بقيم متضاربة: يُستبعد من التحليل
+flag,qc_flags,Santa Fe Institute,,impact_1e6,"أثر مقدّر 1,000,000 بالضبط: قيمة سقف مشبوهة"
+flag,qc_flags,Shareable,,impact_1e6,"أثر مقدّر 1,000,000 بالضبط: قيمة سقف مشبوهة"
+flag,qc_flags,DEMOCRACY COLLABORATIVE FOUNDATION INC,,impact_1e6,"أثر مقدّر 1,000,000 بالضبط: قيمة سقف مشبوهة"
+flag,qc_flags,Welcoming America,,impact_1e6,"أثر مقدّر 1,000,000 بالضبط: قيمة سقف مشبوهة"
+flag,qc_flags,Gay Lesbian and Straight Education Network,,impact_1e6,"أثر مقدّر 1,000,000 بالضبط: قيمة سقف مشبوهة"
+flag,qc_flags,Singa,,impact_1e6,"أثر مقدّر 1,000,000 بالضبط: قيمة سقف مشبوهة"
+flag,qc_flags,Center for Civic Design,,impact_1e6,"أثر مقدّر 1,000,000 بالضبط: قيمة سقف مشبوهة"
